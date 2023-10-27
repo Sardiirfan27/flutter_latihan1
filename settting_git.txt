@@ -1,0 +1,3 @@
+- git init
+- git remote add origin https://github.com/sardiirfan27/cuy-deh.github.io
+- git pull origin
